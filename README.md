@@ -9,15 +9,26 @@ HealthSphere aims to help with this issue.
 HealthSphere Features
 
 i.Doctor on call feature (VoIP)
+
 ii.Doctor indexing and performance parameters (DB)
+
 iii.Uniform patient data and history record (DB)
+
 iv.Patient Status summarisation (NLP and LLM)
+
 v.Cheapest medicine comparision (Web Scrapper)
+
 vi.One click doctor appointment 
+
         1. Availability Management: The system updates in real-time, reflecting changes in availability (e.g., sold-out tickets, cancellations, or new inventory)
+        
         2. Payment Processing: Secure online payment options, such as credit cards, PayPal, or other digital payment methods.
+        
         3. Booking Confirmation: Automated email or SMS notifications sent to customers upon successful booking, including ticket details and any relevant 
            instructions.
+        
         4. Calendar Integration: Synchronization with external calendars to ensure accurate scheduling and minimize conflicts.
+        
         5. Reporting and Analytics: Insights into booking behavior, customer preferences, and revenue performance to inform business decisions
+
 vii.Medical records simplification (NLP and LLM)
